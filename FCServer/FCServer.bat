@@ -1,0 +1,1 @@
+start "c:\Users\Heljick\Desktop" fcserver.exe	conf.json
