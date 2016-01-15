@@ -20,7 +20,7 @@ The "OPC.py" in OPC folder need to be put in "C:\Program Files\Derivative\TouchD
 When everything is installed, launch "FCServer.bat" to start the server, connect your FadeCandy to your computer and it should appear on FCServer.
 Now you can launch "FCDesigner.toe" and start to play with your LEDs and TouchDesigner.
 
-!!! FCserver must be launch before TouchDesigner or you can experiment several performance downgrade, if It's the case, just launch FCServer, no need to restart TouchDesigner. 
+!!! FCserver must be launch before TouchDesigner or you can experiment several performance downgrade, if It's the case, just launch FCServer, no need to restart TouchDesigner !!!
 
 #### Other links: 
 - TouchDesigner donwload -> https://www.derivative.ca/088/Downloads/
