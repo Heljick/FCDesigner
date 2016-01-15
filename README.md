@@ -1,6 +1,6 @@
 # FCDesigner
 Patch to use FadeCandy board with TouchDesigner
-Tested with vserion 58620 and some olders of TouchDesigner without any issues
+Tested with vserion 58620 and some olders of TouchDesigner without any issues. The purpose in the futur is to improve that Patch to make controllable LEDs with FadeCandy and TouchDesigner easiest, with more options and GUI. 
 
 #### Python:
 Before all you need to install Python as you may have some issue with the Python library on TouchDesigner. The system has been tested with 3.3 and 3.5.1 but should works with others versions. 
