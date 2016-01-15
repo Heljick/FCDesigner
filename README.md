@@ -28,5 +28,4 @@ FadeCandy project -> download Touch from: https://www.derivative.ca/088/Download
 FadeCandy google forum -> https://groups.google.com/forum/#!forum/fadecandy
 FCDesigner forum -> coming soon
 
-My work is based on TouchCandy patch https://github.com/Swaeg/TouchCandy by Marko Vierimaa, PixelMappingGeo.2.toe by Dudley Smith, you can have a list and of curse Micah Scott how created the FadeCandy.
-You can found all the contributors who was working before me on this project here https://groups.google.com/forum/#!topic/fadecandy/5vY-NFpYs6c
+My work is based on TouchCandy patch https://github.com/Swaeg/TouchCandy by Marko Vierimaa, PixelMappingGeo.2.toe by Dudley Smith and of curse Micah Scott how created the FadeCandy. You can found all the contributors who was working before me on this project here https://groups.google.com/forum/#!topic/fadecandy/5vY-NFpYs6c
